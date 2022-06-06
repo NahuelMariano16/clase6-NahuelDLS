@@ -1,0 +1,14 @@
+[{"nombre":"Notebook",
+"precio":5000,
+"thumbnail":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fravega.com%2Fp%2Fnotebook-hp-pavilion-15-6-amd-ryzen-7-8gb-512gb-ssd-15-eh0009la-364081%2F&psig=AOvVaw3zHmRvCynfXqcfjTJZEP3u&ust=1654051743668000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNiUl4fdiPgCFQAAAAAdAAAAABAE",
+"id":1},
+
+{"nombre":"Tablet",
+"precio":3000,
+"thumbnail":"https://cdn.andro4all.com/andro4all/2020/05/Samsung-Galaxy-Tab-S6-Lite-en-funda-oficial.jpg"
+,"id":2},
+
+{"nombre":"Celular"
+,"precio":2500,
+"thumbnail":"https://www.multipoint.com.ar/Image/0/450_450-SM-F711BZKBARO_ZFLIP.jpg",
+"id":3}]
